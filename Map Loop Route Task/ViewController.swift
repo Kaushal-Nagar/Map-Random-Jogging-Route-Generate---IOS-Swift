@@ -20,6 +20,7 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
     var locationManager : CLLocationManager!
     var CoordinatesArr: [CLLocationCoordinate2D] = []
     var AngleArr = [90,90,90,90]
+    //HI Demo Comment Add for Github
     
     var CurrentLatitude : CLLocationDegrees = 0
     var CurrentLongitude : CLLocationDegrees = 0
